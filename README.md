@@ -1,7 +1,5 @@
 # NewsSense: AI-Powered Fund Performance Explainer
 
-![NewsSense Demo](https://via.placeholder.com/800x400?text=NewsSense+Demo) *[Replace with actual screenshot]*
-
 An AI-driven system that explains mutual fund/ETF performance by connecting financial data with real-world news and events. Answers questions like *"Why did my fund drop today?"* using NLP and LLMs.
 
 ## ✨ Features
