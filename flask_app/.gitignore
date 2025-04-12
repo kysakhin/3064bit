@@ -1,0 +1,5 @@
+hftoken
+__pycache__/
+
+chroma.db/
+chroma_db/
